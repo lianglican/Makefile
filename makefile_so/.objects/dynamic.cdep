@@ -1,0 +1,1 @@
+.objects/dynamic.o .objects/dynamic.cdep: dynamic.c comm/comm.h include/dynamic.h

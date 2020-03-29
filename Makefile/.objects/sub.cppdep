@@ -1,0 +1,1 @@
+.objects/sub.o .objects/sub.cppdep: sub/sub.cpp sub/sub.h
