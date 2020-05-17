@@ -1,1 +1,0 @@
-.objects/static.o .objects/static.cppdep: static.cpp comm/comm.h include/static.h
